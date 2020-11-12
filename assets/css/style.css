@@ -4,6 +4,10 @@ body * {
     font-family: 'Goldman', cursive;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 #inicio .jumbotron {
     background-image: url('https://nerdmacia.cl/wp-content/uploads/2019/12/hackerman-by-shiiftyshift-dan31sc-1280x600.png');
     background-size: cover;
@@ -59,4 +63,13 @@ footer .icons {
 .icons a {
     text-decoration: none;
     color: #FFFFFF
+}
+
+.bmdpki {
+    height: 70vh !important;
+    width: 70vw !important;
+}
+
+.jRMtza {
+    text-align: center !important;
 }
