@@ -30,3 +30,7 @@ body * {
     background-color: #000000;
     height: 0.2rem;
 }
+
+#experiencia .exp-text {
+    font-size: 1.5rem;
+}
